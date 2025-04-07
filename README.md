@@ -62,4 +62,10 @@ Java & Spring Boot 환경에서 주로 작업하며, 클라우드 기반에서 �
 
 ## 📫 Contact
 
-- Email: inley@naver.com
+<!-- Email -->
+<a href="mailto:inley@naver.com">
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+</a>
+<a href="mailto:leindey@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
