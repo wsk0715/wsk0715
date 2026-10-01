@@ -9,12 +9,6 @@
 필요한 기능을 구현하고 인프라와 배포 환경을 구성합니다.
 </p>
 
-<a href="#projects">Projects</a>
-&nbsp; | &nbsp;
-<a href="#tech-stack">Tech Stack</a>
-&nbsp; | &nbsp;
-<a href="#contact">Contact</a>
-
 </div>
 
 ## Projects
