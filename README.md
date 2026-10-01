@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" alt="JEON - Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,100:1E40AF&amp;height=190&amp;section=header&amp;text=JEON&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=Software%20Engineer&amp;descSize=18&amp;descAlignY=58" />
+<img width="100%" alt="JEON - Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0A1F5C&amp;height=190&amp;section=header&amp;text=JEON&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=Software%20Engineer&amp;descSize=18&amp;descAlignY=58" />
 
-<img alt="From Business to Working Software" src="https://readme-typing-svg.demolab.com?font=Consolas&amp;duration=2500&amp;weight=600&amp;size=20&amp;pause=2500&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=48&amp;lines=From+Business+to+Working+Software" />
+<img alt="From Business to Working Software" src="https://readme-typing-svg.demolab.com?font=Consolas&amp;duration=2500&amp;weight=600&amp;size=20&amp;pause=2500&amp;color=0B64F4&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=48&amp;lines=From+Business+to+Working+Software" />
 
 <p>
 업무 흐름을 이해하고 데이터 구조를 설계합니다.<br />
