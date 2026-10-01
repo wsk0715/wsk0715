@@ -13,6 +13,12 @@
 
 ## Projects
 
+| 프로젝트 | 기간 | 담당 업무 | 저장소 |
+| --- | --- | --- | --- |
+| 자연어 기반 물류 데이터 분석 플랫폼 | 2026.05 - 2026.06 | 입고/재고/출고 도메인 개발, EC2 배포환경 구성 | [Repo](https://github.com/optimesai/mallo) |
+| 마이크로서비스 기반 배달 플랫폼 | 2025.08 - 2025.11 | 주문 도메인 개발, EKS 인프라 구성, CI/CD 구축 | [Repo](https://github.com/wsktpj/asdf3_fork) |
+| 위치 기반 공동구매 플랫폼 | 2024.05 - 2024.07 | 결제/포인트/정산 도메인 개발, OCI 배포환경 구성 | [FE](https://github.com/wsktpj/gongzone_front_fork) / [BE](https://github.com/wsktpj/gongzone_fork) |
+
 ## Tech Stack
 
 **Languages**
