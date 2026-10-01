@@ -12,6 +12,8 @@
 <a href="#projects">Projects</a>
 &nbsp; | &nbsp;
 <a href="#tech-stack">Tech Stack</a>
+&nbsp; | &nbsp;
+<a href="#contact">Contact</a>
 
 </div>
 
@@ -63,7 +65,6 @@
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=nginx&amp;logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express-444444?style=flat-square&amp;logo=express&amp;logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" />
   <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" />
   <br />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
@@ -72,6 +73,15 @@
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&amp;logo=prometheus&amp;logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&amp;logo=grafana&amp;logoColor=white" />
   <img alt="Loki" src="https://img.shields.io/badge/Loki-F46800?style=flat-square" />
+</p>
+
+<br />
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wsk0715&show_icons=true&count_private=true&theme=transparent&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsk0715&layout=compact&theme=transparent&hide_border=true">
 </p>
 
 <br />
