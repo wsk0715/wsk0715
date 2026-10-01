@@ -17,8 +17,6 @@
 
 </div>
 
-<br />
-
 ## Projects
 
 ## Tech Stack
@@ -83,8 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wsk0715&show_icons=true&count_private=true&theme=transparent&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsk0715&layout=compact&theme=transparent&hide_border=true">
 </p>
-
-<br />
 
 ## Contact
 
