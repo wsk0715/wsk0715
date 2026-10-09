@@ -36,24 +36,23 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&amp;logo=vuedotjs&amp;logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" />
 </p>
 
 **Data**
 
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" />
   <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" />
 </p>
 
-**Infrastructure & Automation**
+**Infrastructure**
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&amp;logo=terraform&amp;logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" />
 </p>
 
 **Observability**
@@ -61,7 +60,6 @@
 <p>
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&amp;logo=prometheus&amp;logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&amp;logo=grafana&amp;logoColor=white" />
-  <img alt="Loki" src="https://img.shields.io/badge/Loki-F46800?style=flat-square" />
 </p>
 
 ## Stats
